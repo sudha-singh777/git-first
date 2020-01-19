@@ -1,1 +1,1 @@
-Git first text file for testing
+Git first text file for testing, modified one

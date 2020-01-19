@@ -1,0 +1,1 @@
+Third file for Git testing as multiple files are commit together
